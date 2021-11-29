@@ -14,3 +14,5 @@ Collection of useful open-source NLP tools and their applications.
 | [NLTK](https://www.nltk.org/) | General purpose NLP library, less robust than spaCy but great for learning | Venerable NLP library for Python. A bit outdated and less suited for production use than spaCy, but the accompanying [NLTK book](https://www.nltk.org/book/) makes it a great learning tool.
 | [OpenNMT](https://opennmt.net/) | Pretrained models and API for neural machine translation | Deep learning models trained for sequence-to-sequence tasks
 | [Rasa](https://rasa.com/) | Chatbot platform | Feature-rich platform for training and deploying conversational models
+| [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) | Python Library for BERT-informed Topic Modeling | Clustering documents using a hybrid of classic topic-modeling methods with contextualized embeddings from BERT
+| [BERTopic](https://github.com/MaartenGr/BERTopic) | Python Library for BERT-informed Topic Modeling | Clustering of documents using a UMAP-DBSCAN approach and C-TF-IDF for cluster labels.
