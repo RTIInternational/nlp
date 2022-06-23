@@ -1,14 +1,11 @@
 ## TODO:
-- Peter add stuff to tool list
-- Peter start table/list of things that did/didnt work
-    - tool
-    - task you tried it on
-    - how it worked (with evidence)
-    - implication/generalization
 - Sandy draft structure for non-technical tasks flowchart
     - explore tools for UI
 - Sandy prototype a notebook / snippets for a task
     - Pick one of the tasks I included in mentorship outline to also get experience in a new task
+- Peter to add to experiments once finished:
+  - Submodular Sampling
+  - Weak supervision
 
 
 ## Options for where to go next
