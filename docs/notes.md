@@ -32,4 +32,12 @@
         - Is imbalanced? Prevalence of the thing you're looking for.
     - Project background
     - Movitation for applying NLP to problem
-    - Can we apply the Chicago data maturity / organizational readiness scorecards somehow? Adapt to our 
+    - Can we apply the Chicago data maturity / organizational readiness scorecards somehow?
+- Think of this not as answering questions about the problem, but answering questions about how they think about the problem
+    - Don't need a DS there to help them think about the problem
+    - 
+
+## Making this tool unique from pandect/awesome lists
+- Curation - avoid the TMI problem
+- Make it as RTI specific as possible
+- Start doing it and you'll discover what makes it your own along the way
